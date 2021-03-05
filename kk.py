@@ -1,5 +1,5 @@
 print("Hello")
 print("World")
 print("abc")
-print(*"kartik")
+print(*"llkartik")
 print("i")
